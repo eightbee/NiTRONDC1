@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NiTRONDC1
+- 👋 Hi, I’m @eight
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Python pyrogram
 - 💞️ I’m looking to collaborate...
